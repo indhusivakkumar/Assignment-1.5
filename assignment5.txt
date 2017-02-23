@@ -1,0 +1,46 @@
+1.Hadoop
+
+ *Hadoop is basically a framework which is designed for the processing and
+  storing of large amounts of data across various clusters and then it  analyses 
+  each cluster.
+ *It is used for scaling up from a single server to multiple machines to increase
+  the efficiency of storage.
+ *Hadoop is basically a tool to handle big data.
+
+2. Components of Hadoop framework
+The 3 core components of hadoop are
+ 
+MAPREDUCE-The software framework which is used to process large amounts
+                      of data parallelly on large clusters is known as mapreduce.
+
+HDFS -HDFS stands for Hadoop Distributed File System.It  deals with a storage 
+           of large amounts of data in a reliable manner and also it helps to stream 
+           the data to user applications with high bandwidth.
+
+YARN - Yet Another Resource Negotiator is the abbreviated form of YARN.
+             YARN deals with  enabling multiple data processing engines to process
+            huge volumes of data that resides in a single platform.
+PIG : The platform which used for creating programs which runs on  Apache
+         Hadoop is known as Pig.Pig Latin is the language used by pig.It is a scripting
+         language which is used by hadoop
+
+HIVE : The data warehouse infrastructure  which is used by hadoop is known as Hive.
+
+3.Reasons to learn Big data technologies
+There are a number of reasons for learning big data technologies.They are
+
+* High Demand for Bigdata experts
+*Increasing pay for people who are experts in bigdata
+*Increased number of  job opportunities
+*It helps us to make important decisions
+*Many industries are switching  to bigdata
+Increased number of job titles
+*It is reliable than RDMS
+*It is cheaper
+
+
+
+
+
+
+
